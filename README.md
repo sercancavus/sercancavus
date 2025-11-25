@@ -19,10 +19,7 @@
 
 ### 📈 GitHub İstatistiklerim
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sercancavus&show_icons=true&theme=radical&v=1" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercancavus&layout=compact&theme=radical&v=1" height="150" alt="Top Langs" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sercancavus&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
