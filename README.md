@@ -19,8 +19,7 @@
 
 ### 📈 GitHub İstatistiklerim
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sercancavus&show_icons=true&theme=radical)](https://github.com/sercancavus)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercancavus&layout=compact&theme=radical)](https://github.com/sercancavus)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sercancavus&theme=radical)](https://git.io/streak-stats)
 
 ---
 
