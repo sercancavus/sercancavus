@@ -19,14 +19,8 @@
 
 ### 📈 GitHub İstatistiklerim
 
-<p align="left">
-  <a href="https://github.com/sercancavus">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=sercancavus&show_icons=true&theme=radical&locale=tr" alt="Sercan Çavuş GitHub Stats" />
-  </a>
-  <a href="https://github.com/sercancavus">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercancavus&layout=compact&theme=radical&locale=tr" alt="En Çok Kullanılan Diller" />
-  </a>
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sercancavus&show_icons=true&theme=radical)](https://github.com/sercancavus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sercancavus&layout=compact&theme=radical)](https://github.com/sercancavus)
 
 ---
 
